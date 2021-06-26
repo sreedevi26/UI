@@ -1,0 +1,49 @@
+/* *
+{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.content-wrapper{
+    width: 80%;
+    margin: 4% 10% 5% 10%;
+}
+.content-wrapper img{
+    width: 100%;
+    position: relative;
+    margin-top: -40%;
+}
+*/
+.text-wrapper {
+    background-image: url(images/istockphoto-1222371150-612x612.jpg);
+    height: 100vh;
+}
+.low img{
+    background-image: center;
+    bottom: 0;
+    position: center;
+    bottom: center;
+}
+.text-wrapper h3{
+    text-align: center;
+    color: #059862;
+    /* font-size: 10vw; */
+} 
+.text-center button{
+    text-align: center;
+    color:white; 
+    letter-color:white;   
+}
+.col-6{
+    text-align:center
+}
+.text h4 {
+    text-align: center;
+}
+.text h2{
+    text-align: center;
+}
